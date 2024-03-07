@@ -19,4 +19,4 @@
 - View: 학생 정보, 교사 강의 스케줄, 교육생 등록 일자 및 수료 여부 등
 
 ## 시연 영상
-프로젝트의 시연 영상은 [오라클 프로젝트 시연 영상](https://youtu.be/q5Xrr9mTSqY?si=TuapJbiG8PxruEbO)에서 확인할 수 있습니다.
+프로젝트의 시연 영상은 [오라클 프로젝트 시연 영상](https://youtu.be/q5Xrr9mTSqY?si=TuapJbiG8PxruEbO)에서 확인하실 수 있습니다.
